@@ -1,4 +1,4 @@
-Data Visualization Course
+#Data Visualization Course
 
 •	Creating visualizations using strategies that take in how people can quickly process visualization data.
 •	Select the best ways to present a dataset.
