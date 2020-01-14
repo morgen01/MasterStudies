@@ -1,2 +1,2 @@
 # MasterStudies
-Projects developed and submitted within Master studies
+This repository contains programming projects that I have developed and submitted within my Master studies.
