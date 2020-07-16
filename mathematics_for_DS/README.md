@@ -1,4 +1,4 @@
-Mathematics for Data Scientists
+## Course Objectives
 
 1. Solve practical discrete mathematics and calculus problems common in statistical learning theory.
 2. Express linear models and related concepts in matrix algebra.
