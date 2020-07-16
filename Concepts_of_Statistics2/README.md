@@ -1,1 +1,1 @@
-Multivariate Statistics
+This course covered multivariate statistics.
