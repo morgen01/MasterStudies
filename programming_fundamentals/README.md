@@ -1,4 +1,4 @@
-Syllabus Programming Fundamentals
+## Course Objectives
 
 This course was a prerequisite for my Master Studies in Data Science.
 The following competencies were acquired:
