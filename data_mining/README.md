@@ -1,4 +1,5 @@
-## Learning Objectives
+## Course Objectives
+
 1. Identify examples of problems confronted by data scientists.
 2. Describe the technologies to manage and analyze large quantities of
 structured and unstructured data like SQL, OLAP, data warehousing, Hadoop,
