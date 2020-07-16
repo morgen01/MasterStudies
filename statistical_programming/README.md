@@ -1,4 +1,4 @@
-Statistical Programming Course
+## Course Objectives
 
 1. Implement algorithms using Python as the programming language.
 2. Employ various data structures for storing and accessing datasets.
