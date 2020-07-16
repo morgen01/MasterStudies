@@ -1,4 +1,4 @@
-## README
+## Course Objectives
 
 This course covered the following concepts:
 
